@@ -17,9 +17,9 @@ z innymi wersjami niewykluczone.
 - <b>Scene Builder</b>
   -	Użyty do zaprojektowania interfejsu użytkownika
 - <b>Maven</b>
-  -	Dzięki Mavenowi możliwe jest kompilowanie projektu bez konieczności dostarczania plików .jar potrzebnych do kompilacji.
+  -	Umożliwia kompilowanie projektu bez konieczności dostarczania plików .jar potrzebnych do kompilacji.
 - <b>Hibernate</b>
-  -	Służyć do mapowania obiektowo-relacyjnego
+  -	Służy do mapowania obiektowo-relacyjnego
 - <b>Dia</b>
   -	Projektowanie diagramów UML
 - <b>Draw.io</b>
