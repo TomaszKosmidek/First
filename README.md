@@ -7,20 +7,20 @@ z innymi wersjami niewykluczone.
 
 ##	Wykorzystane technologie
 *	Język Java 8
-*	Będzie to główny język wykorzystany do pisania aplikacji. 
+-	Będzie to główny język wykorzystany do pisania aplikacji. 
 *	JavaFX
-*	Będzie to narzędzie do tworzenia graficznego interfejsu użytkownika.
+-	Będzie to narzędzie do tworzenia graficznego interfejsu użytkownika.
 *	Baza danych ClickHouse
-*	Będzie to baza, w której będą przechowywane informacje potrzebne do poprawnego działania aplikacji.
+-	Będzie to baza, w której będą przechowywane informacje potrzebne do poprawnego działania aplikacji.
 *	Baza danych FireBird
-*	Będzie to baza, w której będą przechowywane informacje potrzebne do poprawnego działania aplikacji.
+-	Będzie to baza, w której będą przechowywane informacje potrzebne do poprawnego działania aplikacji.
 *	Scene Builder
-*	Będzie używany do projektowania interfejsu użytkownika
+-	Będzie używany do projektowania interfejsu użytkownika
 *	Maven
-*	Dzięki Mavenowi będzie możliwe kompilowanie projektu bez konieczności dostarczania plików .jar potrzebnych do kompilacji.
+-	Dzięki Mavenowi będzie możliwe kompilowanie projektu bez konieczności dostarczania plików .jar potrzebnych do kompilacji.
 *	Hibernate
-*	Będzie służyć do do mapowania obiektowo-relacyjnego
+-	Będzie służyć do do mapowania obiektowo-relacyjnego
 *	Dia
-*	Projektowanie diagramów UML
+-	Projektowanie diagramów UML
 *	Draw.io
-*	Projektowanie diagramu ERD
+-	Projektowanie diagramu ERD
