@@ -6,21 +6,21 @@ Serwer bazy ClickHouse powinien się znajdować na hoście localhost na porcie 8
 z innymi wersjami niewykluczone.
 
 ##	Wykorzystane technologie
-*	Język Java 8
+<b>Język Java 8</b>
   -	Będzie to główny język wykorzystany do pisania aplikacji. 
-*	JavaFX
+<b>JavaFX</b>
   -	Będzie to narzędzie do tworzenia graficznego interfejsu użytkownika.
-*	Baza danych ClickHouse
+<b>Baza danych ClickHouse</b>
   -	Będzie to baza, w której będą przechowywane informacje potrzebne do poprawnego działania aplikacji.
-*	Baza danych FireBird
+<b>Baza danych FireBird</b>
   -	Będzie to baza, w której będą przechowywane informacje potrzebne do poprawnego działania aplikacji.
-*	Scene Builder
+<b>Scene Builder</b>
   -	Będzie używany do projektowania interfejsu użytkownika
-*	Maven
+<b>Maven</b>
   -	Dzięki Mavenowi będzie możliwe kompilowanie projektu bez konieczności dostarczania plików .jar potrzebnych do kompilacji.
-*	Hibernate
+<b>Hibernate</b>
   -	Będzie służyć do do mapowania obiektowo-relacyjnego
-*	Dia
+<b>Dia</b>
   -	Projektowanie diagramów UML
-*	Draw.io
+<b>Draw.io</b>
   -	Projektowanie diagramu ERD
